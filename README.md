@@ -1,5 +1,7 @@
 ****BANKING DATA ANALYSIS****
 
+[Bank final1.pdf](https://github.com/user-attachments/files/16741656/Bank.final1.pdf)
+
 ### **Objective**
 
 Your task is to employ Power BI to analyze these banking datasets, aiming to unravel the intricate patterns and behaviors within the data. This involves in-depth data cleaning, robust data modeling, and strategic use of DAX for complex analytics. Your goal is to create a comprehensive, interactive dashboard that not only illustrates transactional trends and customer profiles but also offers a holistic view of the banking ecosystem. This analysis should include understanding customer transaction behaviors, identifying relationships between account characteristics and financial health, and exploring factors influencing credit scores and loan management. Your insights will guide FinInsight Group in advising banking institutions on optimizing their services, enhancing customer satisfaction, and managing financial risks effectively.
@@ -43,3 +45,38 @@ In this project, I leveraged Power BI to conduct a comprehensive analysis of ban
 5.Insightful Reporting: Delivered actionable insights through the dashboard, guiding banking institutions in optimizing services, enhancing customer satisfaction, and effectively managing financial risks.
 
 6.Optimization of Banking Operations: Leveraged data-driven insights to advise FinInsight Group on strategies for improving banking performance, including customer relationship management and risk assessment.
+
+# **Dashboard**
+
+The Power BI dashboard features seven distinct visualizations that provide a holistic overview of banking transactions, customer data, and financial trends across various cities. Here’s a summary of each graph:
+
+1.Count of Transaction Type (Pie Chart):
+
+This pie chart displays the distribution of four transaction types: Deposit, Payment, Transfer, and Withdrawal. Each section represents the percentage of total transactions accounted for by each type, offering a quick insight into the most common transaction activities.
+
+2.Median of Credit Score by Credit Score Category (Bar Chart):
+
+This bar chart categorizes customers into three groups: Good, Average, and Poor, based on their median credit scores. The chart helps to assess the creditworthiness of different customer segments.
+
+3.Sum of Loan by Year and City in USD (Bar Chart):
+
+This bar chart breaks down the total loan amounts by year (2023, 2024, 2025) and city (Berlin, London, New York). It highlights the trends in loan disbursements over time and across different geographical locations.
+
+4.Median of Amount, Loan Amount, and Credit Score by City and Account Type (Map with Bar Chart Overlay):
+
+This map visualizes median amounts, loan amounts, and credit scores by city (Berlin, London, New York) and account type (Checking, Credit, Loan). The map is overlaid with bar charts, providing a geographical representation of financial health across regions.
+
+5.Users and Their Credit Score Based on Account Type (Scatter Plot):
+
+The scatter plot correlates users' credit scores with their loan amounts, segmented by account types (Checking, Credit, Loan, Savings). This visualization helps in understanding the relationship between account types and the financial behavior of customers.
+
+6.Average of Interest Rate by City (Pie Chart):
+
+This pie chart shows the average interest rate across different cities (Tokyo, Berlin, London, Sydney, New York). It provides insights into how interest rates vary geographically.
+
+7.Count of High-Value and Normal Transactions Based on Cities (Bar Chart):
+
+This bar chart compares the count of high-value transactions to normal transactions across various cities. It highlights the cities with the highest transaction volumes and the proportion of high-value transactions, which is essential for assessing financial activity in these regions.
+Together, these visualizations offer a detailed analysis of banking transactions, customer behavior, and financial metrics, helping stakeholders make data-driven decisions.
+
+![Bank final1_page-0001](https://github.com/user-attachments/assets/19d3bb59-d432-4f76-98e8-c0305b4e1612)
