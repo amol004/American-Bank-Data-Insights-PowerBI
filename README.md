@@ -1,4 +1,4 @@
-# AMERICAN BANK DATA ANALYSIS
+# FinInsight Group data analysis
 
 ![download](https://github.com/user-attachments/assets/0c5d6ef3-2821-4ff0-bb1b-d77a95ed7f47)
 
